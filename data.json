@@ -1,1 +1,12 @@
-
+{
+    categoryId: 1,
+    categoryTitle: "Drama",
+    categoryItemList: {
+        {
+            fileUrl: "",
+            id: 1,
+            imageUrl: "https://cdn.myanimelist.net/images/anime/5/87048.jpg",
+            animeName: "Kimi no Na wa"
+        }
+    }
+}
