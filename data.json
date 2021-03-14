@@ -1,14 +1,9 @@
-[
-{
-    categoryId: 1,
-    categoryTitle: "Drama",
-    categoryItemList: {
-        {
-            fileUrl: "",
-            id: 1,
-            imageUrl: "https://cdn.myanimelist.net/images/anime/5/87048.jpg",
-            animeName: "Kimi no Na wa"
-        }
-    }
-}
-    ]
+
+  {
+    "bannerCategoryId": "1",
+    "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+    "id": 1,
+    "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/banners/homebanner1.png",
+    "animeName": "PONMANGAL VANDHAL"
+  }
+]
